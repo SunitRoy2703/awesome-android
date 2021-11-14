@@ -6,4 +6,6 @@
 
 ### [Official Android Developer Website](https://developer.android.com)
 ### [Android Open Source Project](https://source.android.com)
+### [Official Android Blog](https://android-developers.googleblog.com)
 ### [Andorid ML](https://developer.android.com/ml)
+### [Android 5g](https://developer.android.com/training/connectivity/5g)
